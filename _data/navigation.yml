@@ -3,5 +3,7 @@ main:
     url: /posts/
   - title: "Projects"
     url: /projects/
-  - title: "About"
-    url: /about/
+  - title: "Notes"
+    url: https://shaunspinelli.github.io/Notes/
+  # - title: "Resume"
+    # url: https://docs.google.com/document/d/1oBsMdgzROzpqad6BOaPvFwsdJ2LMoJf30QPnHC6XUMY/export?format=pdf

@@ -1,1 +1,1 @@
-docker run -it --rm -p  4000:4000 -v /home/shaun/personal/test/mm-github-pages-starter:/srv/jekyll/ jekyll/jekyll jekyll serve
+docker run -it --rm -p  4000:4000 -v $(pwd):/srv/jekyll/ jekyll/jekyll jekyll serve

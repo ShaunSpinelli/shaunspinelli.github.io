@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Shaun Spinelli"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Machine learning and full stack development."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -71,7 +71,7 @@ author:
       url: "https://github.com/ShaunSpinelli"
     - label: "linkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/shaun-spinelli-824357114"
+      url: "https://linkedin.com/in/shaun-spinelli-824357114"
 
 footer:
   links:
