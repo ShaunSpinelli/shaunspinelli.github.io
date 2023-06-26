@@ -5,7 +5,7 @@ tags: [cloud, webdev, spotify]
 date: 2022-01-26
 ---
 
-Spotify Wrapped is cool, but I wanted to gain a more in-depth understanding of my music listening habits. Unfortunately, Spotify's API doesn't provide full access to your listening history. However, the next best option is to fetch the latest 50 tracks you've listened to. With this limitation in mind, I set out to create a project that could start recording all the songs I listened to and perform data analysis on them.
+Spotify Wrapped is cool, but I wanted to gain a more in-depth understanding of my music listening habits. Unfortunately, Spotify's API doesn't provide full access to your listening history. The next best option is to fetch the latest 50 tracks you've listened to. With this limitation in mind, I set out to create a project that could start recording all the songs I listened to and perform data analysis on them.
 
 <!--truncate-->
 
