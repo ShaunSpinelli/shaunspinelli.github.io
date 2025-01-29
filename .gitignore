@@ -1,0 +1,19 @@
+# Hugo files
+/public/
+/resources/_gen/
+/node_modules/
+/.DS_Store
+/.sass-cache/
+/hugo_stats.json
+
+# Optional OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Optional IDE files
+.idea/
+/.vscode/
+/*.sublime-project
+/*.sublime-workspace
