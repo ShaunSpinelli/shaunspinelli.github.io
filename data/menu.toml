@@ -1,0 +1,21 @@
+[[entries]]
+title = "info"
+
+  [[entries.entries]]
+  title = "github"
+  url = "https://github.com/ShaunSpinelli"
+
+  [[entries.entries]]
+  title = "linkedin"
+  url = "https://www.linkedin.com/in/shaun-spinelli-824357114/"
+
+
+
+[[entries]]
+title = "posts"
+
+  [entries.post_list]
+  limit = 4
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
