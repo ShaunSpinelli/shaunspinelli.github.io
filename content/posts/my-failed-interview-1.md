@@ -25,7 +25,7 @@ const map1 = [
 
 const map2 = [
     [0, 1, 0],
-    [0, 0, 0],
+    [0, 1, 0],
     [0, 1, 0]
 ]; // not passable
 ```
@@ -35,6 +35,8 @@ const map2 = [
 ## My Solution
 
 The first step was to model the grid as a graph where each cell is a node, and edges exist between adjacent open cells. From there, I implemented **Breadth-First Search (BFS)** to traverse the graph and track parent nodes, which allowed me to backtrack and verify if the path was valid.
+
+> The implementation is in TS as requested for the interview, making the solution a bit verbose.
 
 Here’s how I approached it:
 
