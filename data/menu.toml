@@ -19,3 +19,15 @@ title = "posts"
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
+
+
+[[entries]]
+title = "Projects"
+
+  [[entries.entries]]
+  title = "Ovarian Ultrasound"
+  url = "https://github.com/ShaunSpinelli/ultrasound_ovarian_seg"
+
+  [[entries.entries]]
+  title = "ACDC - Automated Cardiac Diagnosis Challenge"
+  url = "https://github.com/ShaunSpinelli/acdc_challenge"
