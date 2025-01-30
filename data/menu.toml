@@ -1,5 +1,5 @@
 [[entries]]
-title = "info"
+title = "Info"
 
   [[entries.entries]]
   title = "github"
@@ -12,7 +12,7 @@ title = "info"
 
 
 [[entries]]
-title = "posts"
+title = "Posts"
 
   [entries.post_list]
   limit = 5
